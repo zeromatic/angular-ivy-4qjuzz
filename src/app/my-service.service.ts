@@ -8,7 +8,7 @@ export class MyServiceService {
   constructor() { }
 
   public getMe() {
-    return "huhuService";
+    return "huhuhahahaService";
   }
 
 }
